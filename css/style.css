@@ -1,0 +1,17 @@
+.grid-item {
+  width: 25%;
+  border: 1px solid black;
+  display: inline-block;
+  margin: -2;
+  height: 200px;
+}
+
+.grid-item--width2 {
+  width: 50%;
+}
+
+.button-wrapper {
+  border: 1px solid black;
+  margin-bottom: 20px;
+  padding: 20px;
+}
